@@ -8,7 +8,7 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
-    This is the process oof developing of developing, testing  and deploying computer applications to solve real-world problems by adhering to a set of engineering principles and best practices
+    This is the process of developing of developing, testing  and deploying computer applications to solve real-world problems by adhering to a set of engineering principles and best practices
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
