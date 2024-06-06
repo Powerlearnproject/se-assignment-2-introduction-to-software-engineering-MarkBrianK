@@ -8,12 +8,12 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
-    This is the process oof developing of developing, testig  and deploying computer applications to solve real-world problems by adhering to a set of engineering principles and best practices
+    This is the process oof developing of developing, testing  and deploying computer applications to solve real-world problems by adhering to a set of engineering principles and best practices
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
-    Software engineering is a dsiplined approach to the development, operation and mantainance of a software. Unlike tradational programming, which focuses primarily on writing code to slove specific problems, software engineering encompasses a broader range of activities, invluding requirements, analysis, design,testing, deployment and mantainance. This brings about the software development life cycle which encomprises of the above stated activities.
+    Software engineering is a dsiplined approach to the development, operation and mantainance of a software. Unlike tradational programming, which focuses primarily on writing code to solve specific problems, software engineering encompasses a broader range of activities, including requirements, analysis, design,testing, deployment and mantainance. This brings about the software development life cycle which encomprises of the above stated activities.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
@@ -31,14 +31,14 @@ Agile vs. Waterfall Models:
     Deployment:
         Release the software to users and deploy it in the production enviroment.
     Maintenance:
-        Provide onoing support, fix bugs, and make necessary updates and improvements.
+        Provide ongoing support, fix bugs, and make necessary updates and improvements.
 
 
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
 
-    In agile model Development is divided into small, iterative cycles called sprints while in waterfall model pases are completed one after the othet.
+    In agile model Development is divided into small, iterative cycles called sprints while in waterfall model pases are completed one after the other.
 
     In agile model there is regular feedback from customers throughout the development process while the waterfall model emphasizes on detailed documentation.
 
@@ -56,7 +56,7 @@ Software Design Principles:
 
     Analysis: Understanding and refining requirements.
 
-    Specification: Documenting requirements in a clear precis manner.
+    Specification: Documenting requirements in a clear precise manner.
 
     Validation: Ensuring requirements are complete, feasible and verifiable.
 
@@ -162,6 +162,7 @@ Ethical Considerations in Software Engineering:
 
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
     Ethical Issues:
 
         Privacy: Ensuring user data is protected and not misuse.
